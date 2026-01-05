@@ -1,0 +1,9 @@
+
+{
+  "name": "農地現勘大師 (Farmland Inspector Pro)",
+  "description": "一個專業的農地現場勘查管理系統，支援照片上傳、AI 影像分析與地理位置紀錄，協助巡查人員高效記錄作物狀態與土地利用情形。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
